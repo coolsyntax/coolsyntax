@@ -1,16 +1,13 @@
 - 👋 Hi, I’m @coolsyntax
-- 👀 I’m interested in C++, DSA
-- 🌱 I’m currently learning Open_GL
-- 💞️ I’m looking to collaborate on C++ projects
+- 👀 I’m interested in C++, DSA, Full Stack Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on C++, web development projects
 - 📫 How to reach me ... abhishekkumartawar@gmail.com
 
 <!---
 coolsyntax/coolsyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
-Full stack web development<br>Looking to contribute to open source projects<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-6a8974247/) 
@@ -25,7 +22,3 @@ Full stack web development<br>Looking to contribute to open source projects<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
