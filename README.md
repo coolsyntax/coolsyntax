@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-6a8974247/) 
-[![Portfolio Website](![image](https://github.com/coolsyntax/coolsyntax/assets/87939501/7ba72111-8d70-4984-bbc0-292ad82c63de)
+[![image](https://github.com/coolsyntax/coolsyntax/assets/87939501/7ba72111-8d70-4984-bbc0-292ad82c63de)
 )](https://coolsyntax.github.io/EliteCodeForge/)
 
 # 💻 Tech Stack:
